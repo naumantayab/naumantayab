@@ -4,8 +4,6 @@
 
 ![images](https://user-images.githubusercontent.com/39854061/186687167-a3f6416c-161f-4b4e-9f41-7158e8b1ef14.png)
 
-
-
 ## My Work Experience:
 
 ![full-stack-development](https://user-images.githubusercontent.com/39854061/186698592-011f0eea-eb85-49d5-865d-d36335a4a035.gif)
@@ -19,8 +17,6 @@
 * ✨ Prepared variety of different designs, layouts and websites as a Freelancer.
 
 ## What can i do?
-
-![91382-web-development](https://user-images.githubusercontent.com/39854061/186698662-f46aa835-2368-4c7a-9fb8-ff2e98abc70d.gif)
 
 * 🌱 I’m Full Time React JS and Angular JS developer.
 
