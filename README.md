@@ -8,7 +8,7 @@
 
 ![full-stack-development](https://user-images.githubusercontent.com/39854061/186698592-011f0eea-eb85-49d5-865d-d36335a4a035.gif)
 
-* 🙋‍♂️ Ex Employee at <a href="https://w3helpers.com/"/> W3 Helpers </a> as Front End and Wordpress Developer.
+* 🙋‍♂️ Ex Employee at W3 Helpers as Front End and Wordpress Developer.
 
 * 🙋‍♂️ Ex Internee at Coliseum soft as Angular and Node JS Developer.
 
