@@ -1,8 +1,6 @@
-Hi People. Welcome To Nauman's Github. 👋
+# Hi People. Welcome To Nauman's Github. 👋
 
 Learn About Muhammad Nauman Tayyab ❤️
-
-![pexels-andrea-piacquadio-838413](https://user-images.githubusercontent.com/39854061/186680915-e5c68a6c-ffb4-48b3-9e7b-c8e976e934cf.jpg)
 
 My Work Experience:
 
