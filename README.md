@@ -1,5 +1,3 @@
-# naumantayyab
-My personal repository
 Hi People. Welcome To Nauman's Github. 👋
 
 Learn About Muhammad Nauman Tayyab ❤️
