@@ -1,8 +1,8 @@
 # Hi People. Welcome To Nauman's Github. 👋
 
-Learn About Muhammad Nauman Tayyab ❤️
+# Learn About Muhammad Nauman Tayyab ❤️
 
-My Work Experience:
+# My Work Experience:
 
 . 🙋 Ex Employee at W3 Helpers as Front End and Wordpress Developer.
 
@@ -12,7 +12,7 @@ My Work Experience:
 
 . ✨ Prepared variety of different designs, layouts and websites as a Freelancer.
 
-What can i do?
+# What can i do?
 
 🌱 I’m Full Time React JS and Angular JS developer.
 
@@ -26,6 +26,6 @@ What can i do?
 
 🔨 Convert graphic designs to usable web images using React JS.
 
-Reach Nauman
+# Reach Nauman
 
 📫 How to reach me: Linked In Facebook
